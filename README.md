@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Access the app here: [https://cksharma11.github.io/](https://cksharma11.github.io/)
+Access the app here: [https://cksharma11.github.io/](https://cksharma11.github.io/stress-talker/)
 
 ## About the Project
 
@@ -36,7 +36,7 @@ Access the app here: [https://cksharma11.github.io/](https://cksharma11.github.i
 
 ## Deployment
 
-This app is deployed to GitHub Pages at: [https://cksharma11.github.io/](https://cksharma11.github.io/)
+This app is deployed to GitHub Pages at: [https://cksharma11.github.io/](https://cksharma11.github.io/stress-talker/)
 
 ---
 
