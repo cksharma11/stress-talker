@@ -1,79 +1,43 @@
-# Getting Started with Create React App
+# Stress Talker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Stress Talker Screenshot](./screenshot.png)
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+Access the app here: [https://cksharma11.github.io/](https://cksharma11.github.io/)
 
-### `npm start`
+## About the Project
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Stress Talker** is a modern, calming journaling app built with React. It helps users privately track their feelings, thoughts, and stress levels. Notes are stored locally in your browser (no login required), and the app is designed to be supportive, judgment-free, and easy to use on any device.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Key Features
+- **Add, view, and delete notes** about your feelings and stress
+- Each note includes a title, emoji (happy or stressful), and detailed description
+- Notes are stored in localStorage for privacy and persistence
+- Beautiful, calming, and responsive UI inspired by top journaling apps
+- Multiple soothing themes, including a 'calm flower' flavor
+- PWA: Installable and works offline
+- Custom confirmation modal for deleting notes
+- Mobile-friendly with card-style notes and large touch targets
+- Navigation with React Router
 
-### `npm test`
+## Use Cases
+- Daily journaling for stress relief and self-reflection
+- Tracking emotional patterns over time
+- Creating a safe, private space for thoughts and feelings
+- Using on-the-go as a mobile PWA
+- No account or cloud required—your data stays on your device
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+1. Clone the repo: `git clone https://github.com/cksharma11/stress-talker.git`
+2. Install dependencies: `npm install`
+3. Start the app: `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Deployment
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This app is deployed to GitHub Pages at: [https://cksharma11.github.io/](https://cksharma11.github.io/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
-# stress-talker
+© 2025 Stress Talker
