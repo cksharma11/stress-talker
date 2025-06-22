@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stress-talker/static/css/main.555404d7.css",
+    "main.js": "/stress-talker/static/js/main.73f6e4ba.js",
+    "static/js/453.78e12a25.chunk.js": "/stress-talker/static/js/453.78e12a25.chunk.js",
+    "index.html": "/stress-talker/index.html",
+    "main.555404d7.css.map": "/stress-talker/static/css/main.555404d7.css.map",
+    "main.73f6e4ba.js.map": "/stress-talker/static/js/main.73f6e4ba.js.map",
+    "453.78e12a25.chunk.js.map": "/stress-talker/static/js/453.78e12a25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.555404d7.css",
+    "static/js/main.73f6e4ba.js"
+  ]
+}
